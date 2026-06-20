@@ -1,0 +1,4 @@
+[Settings]
+WslDistro=Ubuntu
+WslProjectRoot=~
+WindowsProjectRoot=
